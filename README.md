@@ -11,10 +11,22 @@
 
 3.Multi Label Text Classification for Stack Overflow
 
-4.Sentence Summarization
+Summarization:-
 
-   1.Sentence Summarization:-
+   
 
-   https://paperswithcode.com/task/unsupervised-sentence-summarization
+   1.https://paperswithcode.com/task/unsupervised-sentence-summarization
 
    2.https://paperswithcode.com/task/abstractive-text-summarization
+   
+   3.https://paperswithcode.com/paper/lite-transformer-with-long-short-range
+   
+   code:-https://hanlab.mit.edu/projects/litetransformer/
+   
+   4.https://paperswithcode.com/paper/amharic-abstractive-text-summarization
+
+   5.https://paperswithcode.com/paper/abstractive-text-summarization-using-sequence
+   
+   6.https://paperswithcode.com/task/abstractive-text-summarization#code
+   7.https://paperswithcode.com/paper/a-simple-fast-diverse-decoding-algorithm-for
+   8.https://paperswithcode.com/paper/bert-fine-tuning-for-arabic-text
