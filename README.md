@@ -36,3 +36,7 @@ Summarization:-
    9.https://paperswithcode.com/paper/bert-fine-tuning-for-arabic-text#code
 
    10.https://paperswithcode.com/paper/sequence-to-sequence-learning-with-neural
+   
+   Awesome audio:-
+   
+   https://www.youtube.com/channel/UCHk6uq1Cr9J3k5KNmIsYUNw
